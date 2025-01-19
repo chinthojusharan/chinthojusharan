@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">Web Developer, Learning and Building Projects to Enhance My Skills</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinthojusharan&label=Profile%20views&color=0e75b6&style=flat" alt="chinthojusharan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/coder-programmer-education-information-technology-concept-puzzled-person-learning-code-flat-modern-illustration-isolated-white-312084250.jpg"
 
 - 🌱 I’m currently learning **React**
