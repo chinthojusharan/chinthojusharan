@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer, Learning and Building Projects to Enhance My Skills</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/coder-programmer-education-information-technology-concept-puzzled-person-learning-code-flat-modern-illustration-isolated-white-312084250.jpg"
 
-- 👨‍💻 All of my projects are available at [https://sharanchinthoju.netlify.app/](https://sharanchinthoju.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://sharanchinthoju.netlify.app/)
 
 - 📫 How to reach me **chinthojusharan@gmail.com**
 
